@@ -22,8 +22,16 @@ export default function Home() {
           </li>
           <li className="tracking-[-.01em]">
             Save and see your changes instantly.
-            DSDDDDDDDDDDDDDD
-            SDDDDDDDDDDDDDDDDDDDD
+            DSDDDDDDDDDDDDDDdddffffffffffffffffffffffffffffffffffffffff
+            SDDDDDDDDDDDDDDDDDDDDddddddcccccccccccccccccccccccccccccccccccccccccccccccc
+            cccccdsafasdfcc
+            cccccdsafasdfcccddd
+            cccccdsafasdfccc
+            cccccdsafasdfccc
+            cccccdsafasdfccc
+            c
+
+            cccccdsafasdfccc
           </li>
         </ol>
 
